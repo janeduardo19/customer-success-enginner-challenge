@@ -7,13 +7,16 @@ coloquei 3 tag <Personalization> pra diferenciar o conteudo entre do usuário ou
 e 1 mudando de acordo com o usuário, além disso é necessário selecionar duas vezes o usuário pra que haja a real mudança.
   
   ## Execução do código
+ 
+  Criei este código através do VS Code. Sendo assim, para execução do código pode ser feito um clone deste repositório e os seguintes comandos
+ para instalação das dependecias:
   
- Pode fazer um clone do repositório e executar:
   `yarn`
   ou
   `npm`
   
- Isso irá instalar as dependências. Por fim, para executar:
+ Por fim, para executar no localhost utilizem:
+  
   `yarn dev`
   ou
   `npm start`
